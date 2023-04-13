@@ -1,4 +1,3 @@
-<!-- Layout file available in res/layout directory, that is referenced by application when building its interface. -->
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -7,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
     
+    <!-- Layout file available in res/layout directory, that is referenced by application when building its interface. -->
     <!-- Use TextView for a View of any size, from a single character or word to a full screen of text.
          Add a resource id to the TextView in the layout, and control how the text appears using attributes in the layout file. -->
     <!-- use the string resource name with @string/ to specify the text  -->
