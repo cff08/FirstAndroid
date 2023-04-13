@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Create resources for all strings.
+     Doing this makes it easy to translate
+     the strings to other languages -->
+<resources>
+    <!-- Contain French text for all the strings -->
+    <string name="app_name">Ma première application Android</string>
+    <string name="welcome_message">Bonjour le monde!</string>
+</resources>

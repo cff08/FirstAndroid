@@ -1,0 +1,9 @@
+
+<!-- Create resources for all strings.
+     Doing this makes it easy to translate
+     the strings to other languages -->
+<resources>
+    <!-- Contains English text for all the strings that the app uses -->
+    <string name="app_name">My First Android Application</string>
+    <string name="welcome_message">Hello World!</string>
+</resources>
